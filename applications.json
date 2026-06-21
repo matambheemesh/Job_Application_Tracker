@@ -1,0 +1,42 @@
+[
+    {
+        "company": "google",
+        "role": "sde",
+        "location": "bng",
+        "package": "16",
+        "date_applied": "2026-05-12",
+        "status": "Applied"
+    },
+    {
+        "company": "microsoft",
+        "role": "sde",
+        "location": "bng",
+        "package": "19",
+        "date_applied": "2026-05-19",
+        "status": "Assessment"
+    },
+    {
+        "company": "jp morgon",
+        "role": "ai engineer",
+        "location": "bng",
+        "package": "14",
+        "date_applied": "2026-05-20",
+        "status": "Applied"
+    },
+    {
+        "company": "wipro",
+        "role": "sde",
+        "location": "bng",
+        "package": "12",
+        "date_applied": "2026-06-28",
+        "status": "Interview"
+    },
+    {
+        "company": "micron",
+        "role": "ai",
+        "location": "bng",
+        "package": "12",
+        "date_applied": "2026-06-10",
+        "status": "Offer"
+    }
+]
